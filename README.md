@@ -1,4 +1,4 @@
-### Hi there 👋, Assalamu Alaikum, I am Jesmin.
+ Assalamu Alaikum, I am Jesmin.
 #### web design & developer
 
 Skills: Html/CSS/Bootstrap/Javascript
